@@ -143,7 +143,7 @@ node app.js
 
 本專案參考以下教學文章進行實作：
 
-📖 \[FHIR 專案教學（by Lorex L. Yang）](https://hackmd.io/rte-MW7\_SuOX1Yg5sMGXtA)
+📖 \[FHIR 專案教學（by Lorex L. Yang）](https://hackmd.io/@lorex8711/rkCXQV7hr#FHIR-%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90)
 
 並結合 ChatGPT 與 Claude.ai 的對話協作，引導我這位：
 \- 🔰 前端開發初學者

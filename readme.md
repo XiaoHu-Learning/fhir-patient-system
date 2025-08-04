@@ -94,50 +94,6 @@ node app.js
 
 ---
 
-
-
-\## 🔍 FHIR 結構簡例
-
-
-
-```json
-
-{
-
-&nbsp; "resourceType": "Patient",
-
-&nbsp; "name": \[{
-
-&nbsp;   "use": "official",
-
-&nbsp;   "text": "王小明"
-
-&nbsp; }],
-
-&nbsp; "gender": "male",
-
-&nbsp; "birthDate": "1995-01-01",
-
-&nbsp; "telecom": \[{
-
-&nbsp;   "system": "phone",
-
-&nbsp;   "value": "0912345678",
-
-&nbsp;   "use": "mobile"
-
-&nbsp; }],
-
-&nbsp; "address": \[{
-
-&nbsp;   "use": "home",
-
-&nbsp;   "text": "高雄市小港區大馬路999號"
-
-&nbsp; }]
-
-}
-
 ```
 \## 🔧 開發背景與學習歷程
 

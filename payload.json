@@ -1,0 +1,36 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "text": "王大明",
+            "family": "王",
+            "given": [
+                "大明"
+            ]
+        }
+    ],
+    "gender": "male",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "0912345678",
+            "use": "mobile"
+        }
+    ],
+    "birthDate": "1995-01-01",
+    "address": [
+        {
+            "use": "home",
+            "type": "physical",
+            "text": "高雄市小港區大馬路999號",
+            "line": [
+                "大馬路999號"
+            ],
+            "city": "高雄市",
+            "district": "小港區",
+            "postalCode": "812",
+            "country": "TW"
+        }
+    ]
+}
